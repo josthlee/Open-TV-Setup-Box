@@ -17,17 +17,14 @@
 
 #### 4. Set X99 into Flash Mode
 
-```
 1. Power Off
 2. Insert the pin to the reset hole next to the USB C port and HOLD
 3. Power On (the pin HOLD still for 2 seconds)
 4. Release the pin (You will see that the Factory Flash Tools have discovered the USB device if the process is successful)
-```
+
+https://github.com/josthlee/Open-TV-Setup-Box/assets/154501794/ffe78198-6600-4b55-9cfe-adf0799ae5e7
 
 ![WechatIMG2564](https://github.com/josthlee/Open-TV-Setup-Box/assets/154501794/85a86368-ca66-4aae-bac9-c283161ec5fb)
-
-
-https://github.com/josthlee/Open-TV-Setup-Box/assets/154501794/7ff97601-65b6-4f47-94f4-05b23e4ebb59
 
 #### 5. Select ROM and Start to Flash
 
